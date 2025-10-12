@@ -70,5 +70,6 @@ Nous avons choisis l’action de règle nommée “Lambda” sur AWS qui va diri
 ![Picture6](https://github.com/LoRaWAN-Platform-for-Smart-Agriculture/AWS-Config-for-Smart-Agriculture-/assets/60198040/8487f572-acbc-4b10-9df2-20b8957b7bd5)
 ![Picture8](https://github.com/LoRaWAN-Platform-for-Smart-Agriculture/AWS-Config-for-Smart-Agriculture-/assets/60198040/21f1d035-bddd-401a-af45-cc9d3a83189e)
 
+![Picture1](https://github.com/user-attachments/assets/94c6bfcc-a19f-4b56-8052-6fee38ad957e)
 
 
